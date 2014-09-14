@@ -7,7 +7,7 @@ import simplejson
 import urllib2
 
 
-QUERY = 'ios developer'
+QUERY = 'ios OR developer'
 GEOINFO = '53.26521293124656,-9.063720703125,257km'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'en'
